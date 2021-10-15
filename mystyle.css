@@ -1,0 +1,1268 @@
+
+
+html{
+  
+  scroll-behavior: smooth;
+}
+
+body {
+    margin: 0 auto;
+    background-color: purple;
+    padding-top: 10%;
+}
+
+p{
+padding: 2.5% 5% 2.5% 5%;
+}
+.profilnaa{
+  padding:2.5em 0 5em 0;
+}
+.profilna{
+  width:100%;
+  height:30rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  box-shadow: 0 0 5px 5px rgb(177, 177, 177);
+
+}
+.galerija{
+  margin-top: 5%;
+  width: 20%;
+  margin-right: 5%;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+}
+
+@media (hover: hover) {
+  button:hover {
+      outline:0;
+  }
+}
+
+.galerija1{
+margin-left: 5%;
+}
+
+.jos{
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 7.5%;
+}
+
+.mm{
+  text-align: center;
+  padding-top: 5%;
+  font-size: 2em;
+  text-shadow: rgb(150, 150, 150)
+  0.035em 0.035em;
+  
+
+}
+.container{
+  background-color:rgb(255, 255, 255);
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 0% 5% 10% 5%;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+
+
+}
+h1{
+  padding-bottom: 1%;
+  background-color:rgb(78, 0, 78) ;
+  box-shadow:0 0 4px 5px rgb(78, 0, 78);
+  
+  color: rgb(255, 255, 255);
+  padding-left: 5%;
+
+}
+.h11{
+  text-align: center;
+  color: black;
+  text-decoration:none;
+}
+p{
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.columns{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.col1{
+ width: 50%;
+ align-items: stretch;
+ background: purple;
+ color: white;
+ box-shadow:0 0 5px 5px rgb(78, 0, 78);
+ text-align: center;
+}
+.col2{
+  width: 40%;
+  background-color: purple;
+  align-items: stretch;
+  color: white;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  
+}
+
+.col3{
+  display: inline-block;
+  color: white;
+  margin-top: 5%;
+  width: 100%;
+  padding:0.5%  0% 2.5% 0%;
+
+  background-color: purple;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+}
+
+
+.col31{
+  text-align: center;
+  display:inline-flex;
+}
+
+.mapaa{
+  padding:2.5% 0% 0 0%;
+}
+
+.mapa{
+  width: 90%;
+  box-shadow:0 0 5px 5px rgb(83, 2, 83);
+}
+
+.section2{
+  width: 100%;
+  text-align: center;
+}
+
+.col4{
+  margin-top: 5%;
+  display: inline-block;
+  width: 100%;
+  padding:0.5% 0% 5% 0%;
+  background-color: purple;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+}
+
+.col412{
+  padding-top: 2.5%;
+  justify-content: center;
+  display: flex;
+
+}
+
+.col41{
+  margin:auto;
+  display: flex;
+}
+
+.col41 :hover{
+  background-color:rgb(78, 0, 78);
+  border-radius: 25%;
+  margin:auto;
+  display: flex;
+
+}
+
+.instagram{
+  width: 100px;
+  height: 100px;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.telefon{
+  width: 110px;
+  height: 100px;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.email{
+  width: 110px;
+  height: 100px;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.instagramtext{
+  padding-top: 2%;
+  text-align: center;
+}
+
+.col42{
+  margin:auto;
+  display: flex;
+
+}
+
+.col42 :hover{
+  background-color:rgb(78, 0, 78);
+  border-radius: 25%;
+}
+
+.col43{
+  margin: 0 auto;
+}
+
+.col43 :hover{
+  background-color:rgb(78, 0, 78);
+  border-radius: 50%;
+  margin:auto;
+  display: flex;
+}
+
+a {
+  color:rgb(43, 0, 43);
+  text-decoration: none;
+}
+
+a :hover {
+  color:white;
+  transition: 1s;
+}
+a :visited{
+  text-decoration: none;
+}
+a :active {
+  text-decoration: none;
+}
+
+.nav{
+  font-weight: bolder;
+  font-size: 1em;
+  position: fixed;
+  top:0;
+  padding:0.5% 0 0.5% 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255,0.7);
+  text-align: center;
+  border-bottom: solid rgb(68, 0, 68) 5px;
+
+}
+.nav li {
+  margin-right: 12%;
+  display:inline;
+  justify-content:space-between;
+  text-shadow: rgb(117, 117, 117)
+  0.05em 0.05em;
+}
+
+.II{
+  margin-left:12.5%;
+}
+
+.li1{
+  font-size: 1.2rem;
+  display:inline;
+}
+
+.li2{
+  font-size: 1.2rem;
+  display:inline;
+}
+
+/***************************************************/
+/***************************************************/
+/***************************************************/
+
+@media screen and (max-width:1115px) {
+
+  body {
+    margin: 0 auto;
+    padding-top: 10%;
+    padding-bottom: 5%;
+  }
+
+
+  p{
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+  .jos{
+    padding-top:0;
+  }
+
+  .container{
+    background-color:rgb(255, 255, 255);
+    max-width: 1000px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0% 5% 10% 5%;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+
+  }
+
+  .galerija{
+    margin-top: 5%;
+    width: 40%;
+    margin-right: 5%;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+
+  .galerija3{
+    margin-left:5%;
+  }
+
+  .col1{
+    width: 50%;
+    align-items: stretch;
+    background: purple;
+    color: white;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    text-align: center;
+   }
+   .col2{
+     width: 40%;
+     background-color: purple;
+     align-items: stretch;
+     color: white;
+     box-shadow:0 0 5px 5px rgb(78, 0, 78);
+     
+   }
+   
+   
+   .section2{
+     width: 100%;
+     text-align: center;
+     justify-content: center;
+   }
+   
+   .col3{
+     margin-top: 5%;
+     text-align:center;
+     width: 100%;
+     padding:0.5%  0% 2.5% 0%;
+   
+     background-color: purple;
+     box-shadow:0 0 5px 5px rgb(78, 0, 78);
+   }
+   
+   .col31{
+    text-align: center;
+    display:inline-flex;
+  }
+  
+  .mapaa{
+    padding:2.5% 0% 0 0%;
+  }
+  
+  .mapa{
+    width: 90%;
+    height: 15rem;
+    box-shadow:0 0 5px 5px rgb(83, 2, 83);
+  }
+   
+  .col4{
+    margin-top: 5%;
+    display: inline-block;
+    width: 100%;
+    padding:0.5% 0% 5% 0%;
+    background-color: purple;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+  
+  .col412{
+    justify-content: center;
+    display: flex;
+  
+  }
+  
+  .col41{
+    margin:auto;
+    display: flex;
+  
+  }
+  
+  .col42{
+    margin:auto;
+    display: flex;
+  
+  }
+  
+  .col43{
+    margin: 0 auto;
+  
+  }
+
+  .nav{
+    font-weight:sticky;
+    font-size: 1.2em;
+    transition: top 0.3s;
+    position: fixed;
+    top:0;
+    padding:0.5% 0 0.5% 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255,0.7);
+    text-align: center;
+    border-bottom: solid rgb(68, 0, 68) 5px;
+  }
+
+  .nav li {
+    margin-right: 10%;
+    display: inline;
+    justify-content:space-between;
+    text-shadow: rgb(117, 117, 117)
+    0.05em 0.05em;
+  }
+  
+  .II{
+    margin-left:5%;
+  }
+  
+  .li1{
+    font-size: 1rem;
+    display:inline;
+  }
+ 
+  .li2{
+    font-size: 1rem;
+ display:inline;
+  }
+
+}
+
+/***************************************************/
+/***************************************************/
+/***************************************************/
+
+@media screen and (max-width:900px) {
+
+  .profilnaa{
+    padding:2.5em 0 2.5em 0;
+  }
+  .profilna{
+    width:100%;
+    height:20rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    box-shadow: 0 0 5px 5px rgb(177, 177, 177);
+  
+  }
+
+.jos{
+  font-size: 1.2rem;
+}
+
+  p{
+    font-size: 1.3rem;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+  .galerija1{
+    text-align: center;
+    }
+    
+    .galerija3{
+      text-align: center;
+      margin-left:5%;
+      }
+
+  .galerija{
+    margin-top: 5%;
+    width: 40%;
+    margin-right: 5%;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+
+  .col1{
+    width: 50%;
+    align-items: stretch;
+    background: purple;
+    color: white;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    text-align: center;
+   }
+   .col2{
+     width: 40%;
+     background-color: purple;
+     align-items: stretch;
+     color: white;
+     box-shadow:0 0 5px 5px rgb(78, 0, 78);
+     
+   }
+   
+   
+   .section2{
+     width: 100%;
+     text-align: center;
+     justify-content: center;
+   }
+   
+   .col3{
+    margin-top: 5%;
+    text-align:center;
+    width: 100%;
+    padding:0.5%  0% 2.5% 0%;
+  
+    background-color: purple;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+  
+  .col31{
+   text-align: center;
+   display:inline-flex;
+ }
+ 
+ .mapaa{
+  padding:2.5% 0% 0 0%;
+}
+
+.mapa{
+  width: 90%;
+  height: 15rem;
+  box-shadow:0 0 5px 5px rgb(83, 2, 83);
+}
+
+.col4{
+  margin-top: 5%;
+  display: inline-block;
+  width: 100%;
+  padding:0.5% 0% 5% 0%;
+  background-color: purple;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+}
+
+.col412{
+  justify-content: center;
+  display: flex;
+
+}
+
+.col41{
+  margin:auto;
+  display: flex;
+
+}
+
+.col42{
+  margin:auto;
+  display: flex;
+
+}
+
+.col43{
+  margin: 0 auto;
+
+}
+
+  .nav{
+    font-weight: bolder;
+    font-size: 1.2em;
+    position: fixed;
+    top:0;
+    padding:0.5% 0 0.5% 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    border-bottom: solid rgb(68, 0, 68) 5px;
+  }
+
+  .nav li {
+    margin-right: 7.5%;
+    display:inline;
+    justify-content:space-between;
+    text-shadow: rgb(117, 117, 117)
+    0.05em 0.05em;
+  }
+
+  .li1{
+    display:inline;
+  }
+ 
+  .li2{
+ display:inline;
+  }
+
+  .II{
+    margin-left:0%;
+  }
+
+}
+
+/***************************************************/
+/***************************************************/
+/***************************************************/
+
+@media screen and (max-width:720px) {
+
+  body {
+    padding-top: 15%;
+    padding-bottom: 15%;
+  }
+
+  h1{
+    font-size: 1.6rem;
+    padding-bottom: 1%;
+    background-color:rgb(78, 0, 78) ;
+    box-shadow:0 0 4px 5px rgb(78, 0, 78);
+    
+    color: rgb(255, 255, 255);
+    padding-left: 5%;
+  }
+
+  p{
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+  .galerija1{
+   text-align: center;
+    }
+    
+    .galerija3{
+      text-align: center;
+      margin-left:5%;
+       }
+
+  .galerija{
+    margin-top: 5%;
+    width: 30%;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+
+  .container{
+    background-color:rgb(255, 255, 255);
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0% 0% 10% 0%;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+
+  .profilnaa{
+    padding:2.5em 0 1rem 0;
+    text-align: center;
+  }
+
+  .profilna{
+    width:90%;
+    height:17.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: center;
+    box-shadow: 0 0 5px 5px rgb(177, 177, 177);
+  }
+
+  .columns{
+    padding-top: 0;
+    display:inline;
+    justify-content: space-between;
+    
+  }
+  .col1{
+    padding-top: 0.5%;
+    width: 90%;
+   align-items: stretch;
+   background: purple;
+   color: white;
+   box-shadow:0 0 5px 5px rgb(78, 0, 78);
+   padding-bottom: 1%;
+   margin:5% auto;
+  }
+  .col2{
+    padding-top: 0.5%;
+    width: 90%;
+    background-color: purple;
+    align-items: stretch;
+    color: white;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    padding-bottom: 5%;
+    margin: 0 auto;
+  }
+   .section2{
+     padding-bottom: 1%;
+     width: 100%;
+     text-align: center;
+     justify-content: center;
+   }
+   .mapaa{
+    padding:2.5% 0% 0 0%;
+  }
+  .mapa{
+    width: 90%;
+    height: 12.5rem;
+    box-shadow:0 0 5px 5px rgb(83, 2, 83);
+  }
+      .col3{
+     margin-top: 5%;
+     text-align:center;
+     width: 90%;
+     padding:0%  0% 0% 0%;
+   
+     background-color: purple;
+     box-shadow:0 0 5px 5px rgb(78, 0, 78);
+   }
+   
+   .col31{
+    text-align: center;
+    display:inline;
+    padding: 0%;
+  }
+   
+  .lokacijap1 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .lokacijap2{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .col4{
+    margin-left: 5%;
+    margin-top: 5%;
+    display: inline-block;
+    width: 90%;
+    padding:0.5% 0% 5% 0%;
+    background-color: purple;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+  
+  .col412{
+    justify-content: center;
+    display: flex;
+  
+  }
+  
+  .col41{
+    margin:auto;
+    display: flex;
+  
+  }
+  
+  .col42{
+    margin:auto;
+    display: flex;
+  
+  }
+  
+  .col43{
+    margin: 0 auto;
+  
+  }
+   .nav{
+    font-weight: bolder;
+    font-size: 1em;
+    position: fixed;
+    top:0;
+    padding:1% 0 0.5% 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    border-bottom: solid rgb(68, 0, 68) 5px;
+  }
+
+  .nav li {
+    margin-right: 7.5%;
+    display:inline;
+    justify-content:space-between;
+    text-shadow: rgb(117, 117, 117)
+    0.05em 0.05em;
+  }
+
+  .li1{
+    display:inline;
+  }
+ 
+  .li2{
+ display:inline;
+  }
+
+  .II{
+    margin-left:0%;
+  }
+
+
+}
+
+/***************************************************/
+/***************************************************/
+/***************************************************/
+
+
+@media screen and (max-width:600px) {
+
+  body {
+    padding-top: 15%;
+    padding-bottom: 15%;
+  }
+
+  h1{
+    font-size: 1.3rem;
+    padding-bottom: 1%;
+    background-color:rgb(78, 0, 78) ;
+    box-shadow:0 0 4px 5px rgb(78, 0, 78);
+    
+    color: rgb(255, 255, 255);
+    padding-left: 5%;
+  }
+
+  .jos{
+    text-align: center;
+    padding-top: 2.5%;
+    font-size: 1rem;
+  }
+
+  p{
+    padding: 2.5% 1% 2.5% 2.5%;
+    }
+.lokacija2p{
+      margin:0 0 0 0;
+    }
+
+    .profilnaa{
+      padding:2.5em 0 1rem 0;
+      text-align: center;
+    }
+    .profilna{
+      width:90%;
+      height:12.5rem;
+      margin-top: 0;
+      margin-bottom: 0;
+      box-shadow: 0 0 5px 5px rgb(177, 177, 177);
+    }
+    .galerija{
+      margin-top: 5%;
+      width: 20%;
+      margin-right: 5%;
+      box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    }
+    .galerija3{
+      margin-left:0;
+    }
+    .mm{
+      text-align: center;
+      padding-top: 5%;
+      font-size: 1.5rem;
+      text-shadow: rgb(150, 150, 150)
+      0.035em 0.035em;
+    }
+    .container{
+      background-color:rgb(255, 255, 255);
+      width: 90%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0% 0% 10% 0%;
+      box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    }
+
+    h1{
+      font-size: 1.5rem;
+      padding-bottom: 1%;
+      background-color:rgb(78, 0, 78) ;
+      box-shadow:0 0 4px 5px rgb(78, 0, 78);
+      
+      color: rgb(255, 255, 255);
+      padding-left: 5%;
+    
+    }
+    .h11{
+      text-align: center;
+      color: black;
+      text-decoration:none;
+    }
+    p{
+      font-size: 1.2rem;
+      text-decoration: none;
+      padding-top: 1%;
+      padding-bottom: 1%;
+      margin:1% 0 0 1%;
+    }
+    .columns{
+      padding-top: 0;
+      margin: auto;
+
+      display:inline;
+      justify-content: space-between;
+      
+    }
+    .col1{
+      padding-top: 0.5%;
+      width: 90%;
+     align-items: stretch;
+     background: purple;
+     color: white;
+     box-shadow:0 0 5px 5px rgb(78, 0, 78);
+     padding-bottom: 5%;
+     margin: 5% auto;
+    }
+    .col2{
+      width: 90%;
+      background-color: purple;
+      align-items: stretch;
+      color: white;
+      box-shadow:0 0 5px 5px rgb(78, 0, 78);
+      padding-bottom: 5%;
+      margin: 5% auto;
+      
+    }
+
+    .section2{
+      padding-bottom: 1%;
+      width: 100%;
+      text-align: center;
+      justify-content: center;
+    }
+    .mapaa{
+      padding:2.5% 0% 0 0%;
+    }
+    .mapa{
+      width: 90%;
+      height: 12.5rem;
+      box-shadow:0 0 5px 5px rgb(83, 2, 83);
+    }
+       .col3{
+      margin-top: 5%;
+      text-align:center;
+      width: 90%;
+      padding:0.5%  0% 0% 0%;
+    
+      background-color: purple;
+      box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    }
+    
+    .col31{
+     text-align: center;
+     display:inline;
+     padding: 0%;
+   }
+   
+    
+   .lokacijap1 {
+     padding-top: 0;
+     padding-bottom: 0;
+   }
+ 
+   .lokacijap2{
+     padding-top: 0;
+     padding-bottom: 0;
+   }
+   .col4{
+    display: inline-block;
+    width: 90%;
+    margin-top: 5%;
+    padding:0.5% 0% 5% 0%;
+    background-color: purple;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+  
+  .col412{
+    justify-content: center;
+    display: flex;
+  
+  }
+  
+  .col41{
+    margin:auto;
+    display: flex;
+  
+  }
+  
+  .col42{
+    margin:auto;
+    display: flex;
+  
+  }
+  
+  .col43{
+    margin: 0 auto;
+    display: flex;
+  
+  }
+    
+    .nav{
+      padding: 0;
+      font-weight: bolder;
+      font-size: 1em;
+      position: fixed;
+      top:0;
+      padding:0.5% 0 0.5% 0;
+      width: 100%;
+      background-color: rgba(255, 255, 255, 0.7);
+      text-align: center;
+      border-bottom: solid rgb(68, 0, 68) 5px;
+    }
+  
+    .nav li {
+      margin-right: 6%;
+      display:inline;
+      justify-content:space-between;
+      text-shadow: rgb(117, 117, 117)
+      0.05em 0.05em;
+    }
+  
+    .li1{
+      display:inline;
+    }
+   
+    .li2{
+   display:inline;
+    }
+  
+    .II{
+      margin-left:-5%;
+    }
+  
+}
+
+@media screen and (max-width:525px) {
+
+  .jos{
+    font-size: 0.9rem;
+  }
+
+  .nav{
+    font-weight: bolder;
+    position: fixed;
+    top:0;
+    padding:0.5% 0 0.5% 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    border-bottom: solid rgb(68, 0, 68) 5px;
+  }
+  .nav li {
+    font-size: 0.75rem;
+    display: inline-flex;
+    justify-content:space-between;
+    text-shadow: rgb(117, 117, 117)
+    0.05em 0.05em;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .mapaa{
+    padding:2.5% 0% 0 0%;
+  }
+  .mapa{
+    width: 90%;
+    height: 10rem;
+    box-shadow:0 0 5px 5px rgb(83, 2, 83);
+  }
+
+}
+/***************************************/
+/***************************************/
+/***************************************/
+
+@media screen and (max-width:360px) {
+
+  body{
+    outline: none;
+    padding-top: 25%;
+    padding-bottom: 15%;
+  }
+
+  .jos{
+    font-size: 0.8rem;
+  }
+
+  p{
+    font-size: 1rem;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin:1% 0 0 1%;
+  }
+
+  .profilnaa{
+    padding:1em 0 1rem 0;
+    text-align: center;
+  }
+  .profilna{
+    width:90%;
+    height:10rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    box-shadow: 0 0 5px 5px rgb(177, 177, 177);
+  }
+
+  .mm{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 1.1rem;
+    text-shadow: rgb(150, 150, 150)
+    0.035em 0.035em;
+  }
+
+  h1{
+    font-size: 1.1rem;
+    padding-bottom: 1%;
+    background-color:rgb(78, 0, 78) ;
+    box-shadow:0 0 4px 5px rgb(78, 0, 78);
+    
+    color: rgb(255, 255, 255);
+    padding-left: 5%;
+  }
+
+  .col1{
+    padding-top: 0.5%;
+    width: 90%;
+   align-items: stretch;
+   background: purple;
+   color: white;
+   box-shadow:0 0 5px 5px rgb(78, 0, 78);
+   padding-bottom: 5%;
+   margin: 5% auto;
+  }
+  .col2{
+    width: 90%;
+    background-color: purple;
+    align-items: stretch;
+    color: white;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+    padding-bottom: 5%;
+    margin-top: 10%;
+    
+  }
+  
+  .section2{
+    padding-bottom: 1%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    z-index:-1;
+  }
+
+     .col3{
+    margin-bottom: 5%;
+    text-align:center;
+    width: 90%;
+    padding:0.5%  0% 5% 0%;
+  
+    background-color: purple;
+    box-shadow:0 0 5px 5px rgb(78, 0, 78);
+  }
+  
+  .col31{
+   text-align: center;
+   display:inline;
+   padding: 0%;
+ }
+ 
+ .instagram{
+  width: 30px;
+  height: 30px;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.telefon{
+  width: 33px;
+  height: 30px;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.email{
+  width: 33px;
+  height: 30px;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.instagramtext{
+  padding-top: 2%;
+  text-align: center;
+}
+
+
+ .mapaa{
+  padding:5% 0% 0 0%;
+}
+.mapa{
+  width: 90%;
+  height: 8rem;
+  box-shadow:0 0 5px 5px rgb(83, 2, 83);
+}
+
+  
+ .lokacijap1 {
+   padding-top: 2.5%;
+   padding-bottom: 0;
+ }
+
+ .lokacijap2{
+   padding-top: 0;
+   padding-bottom: 2.5%;
+ }
+ .col4{
+  display: inline-block;
+  width: 90%;
+  padding:0.5% 0% 5% 0%;
+  background-color: purple;
+  box-shadow:0 0 5px 5px rgb(78, 0, 78);
+}
+
+.col412{
+  justify-content: center;
+  display: flex;
+
+}
+
+.col41{
+  margin:auto;
+  display: flex;
+
+}
+
+.col42{
+  margin:auto;
+  display: flex;
+
+}
+
+.col43{
+  margin: 0 auto;
+
+}
+
+  .nav{
+    font-weight: bolder;
+    position: fixed;
+    top:0;
+    padding:0.5% 0 0.5% 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    border-bottom: solid rgb(68, 0, 68) 5px;
+  }
+  .nav li {
+    font-size: 0.6rem;
+    display: inline-flex;
+    justify-content:space-between;
+    text-shadow: rgb(117, 117, 117)
+    0.05em 0.05em;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .li1{
+    font-size: 0.7rem;
+  }
+ 
+  .li2{
+    font-size: 0.7rem;
+  }
+
+  .II {
+    margin-left:-6%;
+    
+  }
+
+}
